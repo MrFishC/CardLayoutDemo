@@ -7,7 +7,9 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.util.AttributeSet;
 import android.widget.LinearLayout;
+
 import androidx.annotation.Nullable;
+
 import com.jack.cardlayoutdemo.R;
 
 /**
